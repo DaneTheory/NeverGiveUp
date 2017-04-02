@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "NeverGiveUp",
+    "description": "Browsing the web has never been so easy!",
+    "version": "1.0",
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
